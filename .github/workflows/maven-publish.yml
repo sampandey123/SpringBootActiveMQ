@@ -4,6 +4,7 @@
 name: Test jar
 
 on:
+  workflow_dispatch: # Put here!!
   release:
     types: [created]
 
