@@ -9,6 +9,7 @@ public class SpringBootActiveMqApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootActiveMqApplication.class, args);
 		System.out.println("Test message");
+		System.out.println("Test message");
 	}
 
 }
